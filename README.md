@@ -16,7 +16,7 @@ In this project, I aimed to explore the principles of quadcopter design, includi
 
 * Telemetry Integration: Incorporated real-time telemetry for monitoring performance and flight data.
 
-Modular Design: Ensured easy access to components for maintenance and upgrades.
+* Modular Design: Ensured easy access to components for maintenance and upgrades.
 ## Contribution
 Feel free to contribute by reporting issues, suggesting features, or sharing your own modifications. Collaboration is welcome!
 ##  About Me
