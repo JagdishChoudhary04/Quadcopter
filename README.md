@@ -20,7 +20,7 @@ Modular Design: Ensured easy access to components for maintenance and upgrades.
 ## Contribution
 Feel free to contribute by reporting issues, suggesting features, or sharing your own modifications. Collaboration is welcome!
 ##  About Me
-I'm a Third year student pursuing Bachleor of Engineering 
+I'm a Third Year Student Pursuing Bachelors of Engineering 
 in Electronics and Telecommunication.
 ## Index
  * Introduction
@@ -29,5 +29,4 @@ in Electronics and Telecommunication.
  * Getting Started & Software Requirement
  * Making our own Remote Controller
  * Making our own Flight Controller
- * What have we achieved my doing this project?
  * End
