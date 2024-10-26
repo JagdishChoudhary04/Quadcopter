@@ -21,7 +21,7 @@ In this project, I aimed to explore the principles of quadcopter design, includi
 Feel free to contribute by reporting issues, suggesting features, or sharing your own modifications. Collaboration is welcome!
 ##  About Me
 I'm a Third Year Student Pursuing Bachleors of Engineering 
-in Electronics and Telecommunication.
+in Electronics and Telecommunication. For any quieres : jagdishchoudhary9372@gmail.com
 ## Index
  * Introduction
  * Skills Required to Get Started
