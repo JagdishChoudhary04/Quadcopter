@@ -20,7 +20,7 @@ In this project, I aimed to explore the principles of quadcopter design, includi
 ## Contribution
 Feel free to contribute by reporting issues, suggesting features, or sharing your own modifications. Collaboration is welcome!
 ##  About Me
-I'm a Third Year Student Pursuing Bachelors of Engineering 
+I'm a Third Year Student Pursuing Bachleors of Engineering 
 in Electronics and Telecommunication.
 ## Index
  * Introduction
